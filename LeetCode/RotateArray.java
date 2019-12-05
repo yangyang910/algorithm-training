@@ -2,8 +2,8 @@ package algorithm;
 
 /**
  * Time: 2019-12-05
- * Author: yangxin
- * Mail: yangxin910@pingan.com.cn
+ * Author:
+ * Mail:
  * Description:
  */
 public class RotateArray {
